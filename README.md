@@ -1,4 +1,4 @@
-# Project: CSE 351 Introduction to Data Science
+# CSE 351: Introduction to Data Science - Final Project
 
 Contributers: [Amara Im](https://github.com/amaraim22) & [Christina Low](https://github.com/christinalow)
 
