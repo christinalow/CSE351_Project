@@ -12,4 +12,8 @@ The World Happiness Report is a landmark survey of the state of global happiness
 
 ## Datasets
 
-The "World Happiness Report" found on [Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness) contains happiness data for different countries from year 2015 to year 2019. We will treat data of year 2015 to year 2018 as the training set, and year 2019 data as the test set. Description of the data fields can be found on the FAQ page of World Happiness Report at [https://worldhappiness.report/faq/](https://worldhappiness.report/faq/)
+The "World Happiness Report" found on [Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness) contains the happiness data for different countries from year 2015 to year 2019. We will treat data of year 2015 to year 2018 as the training set, and year 2019 data as the test set. Description of the data fields can be found on the FAQ page of World Happiness Report at [https://worldhappiness.report/faq/](https://worldhappiness.report/faq/)
+
+## Python Libraries
+
+* [Pandas](https://pandas.pydata.org/) - Data Analysis
