@@ -30,3 +30,9 @@ The "World Happiness Report" found on [Kaggle](https://www.kaggle.com/datasets/u
 * Which countries have stable rankings over the years? Which countries improved their rankings?
 * Visualize the relationship between happiness score and other features such as GDP, social support, freedom, etc.
 * If you are the president of a country, what would you do to make citizens happier?
+
+## Modeling - Machine Learning
+
+* [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) - finds the linear relationship between x (input) and y (output) and predicts the dependent variable (y) based on the independent variable (x).
+* [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) - creates a set of decision trees from a few randomly selected subsets of the training set and picks predictions from each tree.
+* [XGBoost](https://xgboost.readthedocs.io/en/stable/) - minimizes a regularized (L1 and L2) objective function that combines a convex loss function (based on the difference between the predicted and target outputs) and a penalty term for model complexity (in other words, the regression tree functions).
