@@ -2,7 +2,7 @@
 
 Contributers: Amara Im & Christina Low
 
-View our presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vQNTUPYnF5pqEW8riXGJUSzVr8tQDzo6tftW6D0_E2IED5zTZFzdQXC1LvvA6vIGK1rpEvR3VNYnLCz/pub?start=true&loop=true&delayms=3000)
+View our presentation at [https://tinyurl.com/cse351project](https://tinyurl.com/cse351project)
 
 ## Background
 
