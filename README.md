@@ -2,8 +2,9 @@
 
 Contributers: [Amara Im](https://github.com/amaraim22) & [Christina Low](https://github.com/christinalow)
 
-View our presentation at [https://tinyurl.com/cse351project](https://tinyurl.com/cse351project)<br>
-View code on Google colab: [https://colab.research.google.com/drive/1r6dJAHsoR7BB5b4a8JuahteT5gFbE0wl?usp=sharing](https://colab.research.google.com/drive/1r6dJAHsoR7BB5b4a8JuahteT5gFbE0wl?usp=sharing)
+View our presentation at [https://tinyurl.com/cse351project](https://tinyurl.com/cse351project)
+
+View code on Google colab: [https://tinyurl.com/cse351projectcode](https://tinyurl.com/cse351projectcode)
 
 ## Background
 
