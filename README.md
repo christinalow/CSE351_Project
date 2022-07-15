@@ -22,3 +22,11 @@ The "World Happiness Report" found on [Kaggle](https://www.kaggle.com/datasets/u
   *   [Seaborn](https://github.com/mwaskom/seaborn) - Statistical Visualization in Matplotlib
 * [scikit-learn](https://scikit-learn.org/stable/) - Machine Learning
   * [XGBoost](https://github.com/dmlc/xgboost) - Gradient Boosting
+
+## Exploratory Data Analysis
+
+* Merge and clean the data. 
+* What are the central tendencies of happiness score over the years? Did they increase or decrease?
+* Which countries have stable rankings over the years? Which countries improved their rankings?
+* Visualize the relationship between happiness score and other features such as GDP, social support, freedom, etc.
+* If you are the president of a country, what would you do to make citizens happier?
