@@ -1,6 +1,6 @@
 # Project: CSE 351 Introduction to Data Science
 
-Contributers: Amara Im & Christina Low
+Contributers: [Amara Im](https://github.com/amaraim22) & Christina Low
 
 View our presentation at [https://tinyurl.com/cse351project](https://tinyurl.com/cse351project)
 
