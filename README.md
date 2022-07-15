@@ -17,3 +17,8 @@ The "World Happiness Report" found on [Kaggle](https://www.kaggle.com/datasets/u
 ## Python Libraries
 
 * [Pandas](https://pandas.pydata.org/) - Data Analysis
+* [NumPy](https://numpy.org/) - Scientific Computing
+* [Matplotlib](https://matplotlib.org/) - Data Visualization
+  *   [Seaborn](https://github.com/mwaskom/seaborn) - Statistical Visualization in Matplotlib
+* [scikit-learn](https://scikit-learn.org/stable/) - Machine Learning
+  * [XGBoost](https://github.com/dmlc/xgboost) - Gradient Boosting
